@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tasin698
 - 👀 I’m interested in Java and Python
-- 🌱 I’m currently learning Python, Django, Android Studio and Qiskit for Quantum Computing
-- 💞️ I have experience working on app development, machine learning, deep learning project
+- 🌱 I’m well-versed in Python, C++, Java, Android Studio and Qiskit for Quantum Computing
+- 💞️ I have experience working on app development, machine learning, deep learning projects
 - 📫 How to reach me ---- tasint.rahman10@gmail.com
 
 <!---
